@@ -1,3 +1,3 @@
 # Proyectos Feria de Ingeniería
 
-![Feria Ingenieria Tec](https://github.com/gilbertosg/feria-ingenieria/tree/master/public/img/feriaTec.png)
+![Feria Ingenieria Tec](https://raw.githubusercontent.com/gilbertosg/feria-ingenieria/tree/master/public/img/feriaTec.png)
